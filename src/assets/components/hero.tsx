@@ -48,4 +48,3 @@ const HeroSection = () => { return ( <section className="min-h-screen flex flex-
 
                                                                                                         export default App;
 
-                                                                                                        
