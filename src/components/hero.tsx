@@ -1,6 +1,5 @@
 import { useEffect } from "react";
 import { motion } from "framer-motion";
-import "./App.css";
 
 const App = () => {
   useEffect(() => {
