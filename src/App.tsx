@@ -1,7 +1,7 @@
-import { HeroSection } from './components/hero.tsx';,
-import { AboutSection } from './components/hero.tsx';,
-import { AchievementsTimeline } from './components/AchievementsTimeline.tsx';,
-import { CertificationsGrid } from './components/AchievementsTimeline.tsx';,
+import { HeroSection } from './components/hero.tsx';
+import { AboutSection } from './components/hero.tsx';
+import { AchievementsTimeline } from './components/AchievementsTimeline.tsx';
+import { CertificationsGrid } from './components/AchievementsTimeline.tsx';
 import { ArticlesSection } from './components/ArticlesSection';
 
 function App() {
